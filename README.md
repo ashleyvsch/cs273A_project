@@ -1,6 +1,6 @@
 ### Fashion-MNIST Machine Learning Repository
 
-This repository holds various jupyter notbooks exploring machine learning model creation for the Fashion-MNIST dataset. The dara set is explained in detail here:
+This repository holds various jupyter notebooks exploring machine learning model creation for the Fashion-MNIST dataset. The data set is explained in detail here:
 
 https://github.com/zalandoresearch/fashion-mnist
 
